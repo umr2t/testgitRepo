@@ -3,3 +3,4 @@ hello world!
 12345678
 第四次修改
 more
+gitCommit
