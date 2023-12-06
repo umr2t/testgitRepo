@@ -6,3 +6,5 @@ more
 gitCommit
 
 hello
+
+添加一些内容12.6
